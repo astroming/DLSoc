@@ -1,6 +1,6 @@
 # DLSoc
  Deep Learning- based SOC estimation framework (DLS). 
- ![The San Juan Mountains are beautiful!](./dataset/DLSframework.pdf")
+ ![DLS framework](./dataset/DLSframework.png")
  
  This framework leverages deep learning techniques including time-series encoders like LSTM, Transformer, mamber, and multitask learning mechanism to handle regional SOC variation. Details can be found in the paper (paper will be publically available soon).
 ## Requirements
