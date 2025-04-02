@@ -1,6 +1,6 @@
 # DLSoc
  Deep Learning- based SOC estimation framework (DLS). 
- ![DLS framework](./dataset/DLSframework.png")
+ ![DLS framework](./dataset/DLSframework.png)
  
  This framework leverages deep learning techniques including time-series encoders like LSTM, Transformer, mamber, and multitask learning mechanism to handle regional SOC variation. Details can be found in the paper (paper will be publically available soon).
 ## Requirements
@@ -13,6 +13,9 @@
     $python run.py
 
 Hyper parameters can be set in the argparse in the run.py
+
+## Results
+![Main results](./dataset/DLSresults.png)
 
 ## Scripts
 **--data_provider**
